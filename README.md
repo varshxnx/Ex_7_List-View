@@ -1,4 +1,4 @@
-3## Ex.No:7 Develop an android application to display the country name with image using list view in android studio.
+## Ex.No:7 Develop an android application to display the country name with image using list view in android studio.
 ## AIM:
 
 To create and develop the application to display the place name with image using list view in android studio
